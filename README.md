@@ -1,4 +1,4 @@
-# Laptop-Price-Prediction-Web-App
+# Mobile-Price-Prediction-Web-App
 
 This machine learning web application can help you predict the price of your desired smartphone. It uses the following values from the dropdown lists below when determining the price of a smartphone in PHP.
 
