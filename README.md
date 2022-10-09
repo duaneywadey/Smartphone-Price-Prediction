@@ -1,5 +1,8 @@
 # Mobile-Price-Prediction-Web-App
 
+![image](https://user-images.githubusercontent.com/88537860/194754220-1f0db874-087a-43a6-877f-5968f2b43004.png)
+![image](https://user-images.githubusercontent.com/88537860/194754240-95c6fc2c-2e37-4ff5-bf97-4f3a0327cd94.png)
+
 This machine learning web application can help you predict the price of your desired smartphone. It uses the following values from the dropdown lists below when determining the price of a smartphone in PHP.
 
 
